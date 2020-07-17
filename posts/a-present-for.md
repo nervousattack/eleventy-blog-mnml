@@ -2,7 +2,7 @@
 date: "2017-12-01"
 year: <em>November</em> 2017
 title: A Present For Those Who Are Present
-description: Inital thoughts on abandoning design history.
+description: Inital thoughts on abandoning graphic design history.
 ---
 
 Being a great designer has nothing to do with your ability to identify typefaces, or color theory, or how you construct and use a grid system. Instead, great designers are informed and engaged citizens—individuals who understand the history of our society and world, the consequences of those histories, and have opinions that influence their actions of the present day. They build practices in which their citizenship informs their practice and vice versa. But for a majority of us, graphic design history is taught as a slideshow of images, addressing only period styles and the names of famous designers. Educator and philosopher Paulo Freire called this form of pedagogy the “banking model” of education—a metaphor for students as containers into which educators place knowledge.^[*Pedagogy of the Oppressed*, by Paulo Freire.] Freire argued that this model reinforces a lack of critical thinking and knowledge ownership in students, which in turn reinforces oppression. Students and designers get nothing from this “banking model” of education other than a fetish for nostalgia and commodification. 
