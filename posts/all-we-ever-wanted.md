@@ -2,7 +2,7 @@
 date: "2018-04-01"
 year: <em>March</em> 2018
 title: All We Ever Wanted
-description: Ian Curtis, the designer.
+description: Ian Curtis-as-designer.
 ---
 
 Despite being a terribly sad song about Ian Curtis’ problems in his marriage, as well as his general frame of mind in the time leading up to his suicide in May 1980, Joy Division’s *Love Will Tear Us Apart* is considered a pop song that has been danced to, laughed at, cried to, and everything in between by generations of people regardless of how “hip” they are. For some reason, the despair of this song and other Joy Division songs doesn’t deter people from (ironically) celebrating life. Yet most people see goth culture and music as nothing but wallowing in self-pity—but that’s a misconception. Just because reveling in dismay is not the norm in society does not mean that goths are ultimately sad—rather, they are fascinated by the feelings and actions that that reveling can bring about. So, when mainstream audiences throw *Love Will Tear Us Apart* on at dance parties it’s not because they want to revisit a moment of loss; rather they wish to contemplate—in a subconscious, celebratory way—some potential in how they can construct their lives. 
