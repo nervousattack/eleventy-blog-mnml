@@ -1,6 +1,6 @@
 ---
 date: "2020-08-01"
-year: <em>July</em> 2020 | <a href="https://rorykingetc.com" target="_blank">Download PDF</a>
+year: <em>July</em> 2020
 title: enough is enough
 description: Short-circuiting the present through song.
 ---

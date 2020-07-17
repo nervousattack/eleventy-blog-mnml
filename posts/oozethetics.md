@@ -1,6 +1,6 @@
 ---
 date: "2019-12-01"
-year: <em>April/November</em> 2019 | <a href="https://rorykingetc.com" target="_blank">Download PDF</a>
+year: <em>April/November</em> 2019 | <a href="https://writing.rorykingetc.com/assets/pdfs/RoryKing_Oozethetics.pdf" target="_blank">Download PDF</a>
 title: Oozethetics
 description: Dark entanglements producing disorientation that invigorates solidarity.
 ---
