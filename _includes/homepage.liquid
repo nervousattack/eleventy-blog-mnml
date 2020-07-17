@@ -5,21 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="Description" content="Arpit Batra" />
-    <title>{{ title }}</title>
-    <link
-      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400&display=swap"
-      rel="stylesheet"
-    />
+    <title>Rory King: {{ title }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital@0;1&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles/common.css" />
     <link rel="stylesheet" href="./styles/homepage.css" />
   </head>
   <body>
     <div class="container">
+      <div class="backtomain"><a href="https://rorykingetc.com"><span style="font-size: 24px;line-height: 0;">&#x21DC;</span> Main Interzone</a></div>
       {{ content }}
-      <h4 class="category">Posts</h4>
+      <br>
+      <hr>
+      <h3 class="category">entities</h3>
       <ul class="posts">
       {% for post in collections.posts reversed %}
         <li class="post">
+          <span class="post-date">
+            {{ post.date | date: "%B %Y" }}
+          </span>
+          <br>
           <span class="post-title">
             {% if post.data.externalLink %}
               <a href="{{ post.data.externalLink }}" target="__blank">{{ post.data.title }}</a>
@@ -27,12 +31,42 @@
               <a href="{{ post.url }}">{{ post.data.title }}</a>
             {% endif %}
           </span>
-          <span class="post-date">
-            {{ post.date | date: "%b %Y" | downcase }}
+          <br>
+          <span class="post-description">
+            {{ post.data.description }}
           </span>
         </li>
       {% endfor %}
     </ul>
+    <br>
+    <h3 class="category">Interpretations</h3>
+      <ul class="posts">
+      {% for post in collections.review reversed %}
+        <li class="post">
+          <span class="post-date">
+            {{ post.date | date: "%B %Y" }}
+          </span>
+          <br>
+          <span class="post-title">
+            {% if post.data.externalLink %}
+              <a href="{{ post.data.externalLink }}" target="__blank">{{ post.data.title }}</a>
+            {% else %}
+              <a href="{{ post.url }}">{{ post.data.title }}</a>
+            {% endif %}
+          </span>
+          <br>
+          <span class="post-description">
+            {{ post.data.description }}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+    <br><hr>
+    <div class="footer">&copy; Rory King. All rights reserved.<br/>Typeset in Simula by Sharp Type, Cheesy Tots by Napoleon Services, and Karrik by Jean-Baptiste Morizot and Lucas Le Bihan.
     </div>
+  
+  </div>
+
+    <div class="background"></div>
   </body>
 </html>

@@ -19,6 +19,8 @@
     "node-sass": "^4.13.1"
   },
   "dependencies": {
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
+    "@gerhobbelt/markdown-it-footnote": "^3.0.2-4",
+    "markdown-it-footnote": "^3.0.2"
   }
 }

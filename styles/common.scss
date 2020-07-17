@@ -1,11 +1,11 @@
 ::selection {
-  color: white;
-  background-color: brown;
+  color: black;
+  background-color: #ccfe02;
 }
 
 ::-moz-selection {
-  color: white;
-  background-color: brown;
+  color: black;
+  background-color: #ccfe02;
 }
 
 * {
@@ -13,34 +13,131 @@
   padding: 0;
 }
 
+html {
+  width: 100vw;
+  height: 100%;
+}
+
 body {
-  font-family: "IBM Plex Sans", sans-serif;
-  color: #394655;
-  background: #fffef7;
+  font-family: 'Simula', 'Times New Roman', serif;
+  color: black;
+  background-color: #f6f6f6;
+  letter-spacing: 0.2px;
+  overflow-x: hidden; 
+  overflow-y: auto;
+}
+
+.background {
+  width: 100%;
+  height: 100vh;
+  position:fixed;
+  top: 0;
+  left: 0;
+  background: url(/assets/images/ooze.png);
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+  z-index: 9999;
+  pointer-events: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Cheesy Tots', Simula, sans-serif;
+  font-size: 75px;
+  line-height: 65px;
+  margin-bottom: 25px;
+  font-weight: normal;
+}
+
+h2 {
+  margin: 24px 0 24px 40px;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 36px;
+  font-style: italic;
+  letter-spacing: 0.2px;
+}
+
+h3 {
+  font-family: 'Cheesy Tots', Simula, sans-serif;
+  margin: 24px 0 12px 0;
+  font-weight: normal;
+  font-size: 50px;
+  letter-spacing: 1px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 26px;
+  margin-bottom: 25px;
+  letter-spacing: 0.4px;
 }
 
 .container {
-  margin: 40px 32%;
+  margin: 60px 35% 60px 20%;
   blockquote {
     margin: 16px 0;
-    padding: 0 1em;
-    color: brown;
-    border-left: 0.25em solid;
+    padding: 0 20px;
+    color: black;
+    border-left: 20px solid black;
+    font-family: 'Karrik', Helvetica, Arial, sans-serif;
   }
+}
+
+.footnotes, .footnotes-list, .footnote-item p {
+    font-size: 13px;
+    line-height: 17px;
+    font-family: 'DM Mono', monospace;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    margin: 0 0 0 16px;
+    letter-spacing: normal;
+  }
+
+hr {
+  height:2px; 
+  border:none; 
+  color:#ccfe02; 
+  background-color:#ccfe02; 
+  margin-bottom: 10px;
+}
+
+.footer {
+  font-size: 13px;
+  line-height: 17px;
+  font-family: 'DM Mono', monospace;
+  margin-top: 60px;
+  letter-spacing: normal;
+}
+
+sup {
+  font-size: 11px;
+  line-height: normal;
+  border-radius: .6em;
+  padding: .1em .2em .07em .23em;
+  border: 1px solid slateblue;
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'DM Mono', monospace;
 }
 
 a {
   text-decoration: none;
-  color: brown;
+  color: slateblue;
 
   &:hover {
-    cursor: pointer;
-    text-decoration: underline;
+    text-shadow: 0px 0px 10px slateblue;
+    -webkit-filter: blur(4px);
+    filter: blur(4px);
+    cursor: alias;
+    text-decoration: none;
   }
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
   .container {
-    margin: 32px 14%;
+    margin: 32px 5%;
   }
 }

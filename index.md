@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Writing
 ---
 
-## Welcome to Hollywoo
+# Mesh Node RK.0X
 
-Hello. I am BoJack. Horseman, obviously
+*This space is an entanglement of texts about art, design, and music written by [Rory King](https://rorykingetc.com). Everything is simply an attempt at becoming disoriented. Musings and words occasionally mutate over time. Feel free to continue a conversation by sending your thoughts to [@rorykingetc](https://twitter.com/rorykingetc) or mail@rorykingetc.com.*
