@@ -1,3 +1,30 @@
+@font-face {
+    font-family: "Simula";
+    src: url(/assets/fonts/Simula-Book.otf);
+}
+
+@font-face {
+    font-family: "Simula";
+    font-style: italic;
+    src: url(/assets/fonts/Simula-BookItalic.otf);
+}
+
+@font-face {
+    font-family: "Cheesy Tots";
+    src: url(/assets/fonts/CheesyTots-Regular.otf);
+}
+
+@font-face {
+    font-family: "Karrik";
+    src: url(/assets/fonts/Karrik-Regular.otf);
+}
+
+@font-face {
+    font-family: "Karrik";
+    font-style: italic;
+    src: url(/assets/fonts/Karrik-Italic.otf);
+}
+
 ::selection {
   color: black;
   background-color: #ccfe02;

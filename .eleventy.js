@@ -14,6 +14,7 @@ module.exports = eleventyConfig => {
   const markdownComp = markdownIt(options).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", markdownComp);
 
+  eleventyConfig.addPassthroughCopy("assets/fonts");
   eleventyConfig.addPassthroughCopy("assets/images");
   eleventyConfig.addPassthroughCopy("assets/pdfs");
 
