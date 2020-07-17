@@ -15,6 +15,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary("md", markdownComp);
 
   eleventyConfig.addPassthroughCopy("assets/images");
+  eleventyConfig.addPassthroughCopy("assets/pdfs");
 
   markdownComp.renderer.rules.footnote_caption = (tokens, idx) => {
     let n = Number(tokens[idx].meta.id + 1).toString();
