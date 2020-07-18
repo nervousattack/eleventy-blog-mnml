@@ -5,6 +5,8 @@ title: Britt Gudas — Shaker Table
 tags: review
 ---
 
+![Britt Gudas — Shaker Table](/assets/images/britt1.png)
+
 Based on the furniture of the Shakers—a Christian sect from the 18th century in England that attempted to separate themselves from the “outside world” and to create a heaven-on-earth—Britt Gudas’ elongated gothic table is the narrative of a failed seance. Shaped like a coffin lid, it tells us what modernism never understood about itself, that, like the Shakers, modernist design is a celibate practice, lacking “mystery and emotion, [and] a little too frank about the limits of human nature [while] never preparing us for our eventual end.”^[Ballard, JG. “A Handful of Dust.” *The Guardian*. March 20, 2006. https://www.theguardian.com/artanddesign/2006/mar/20/architecture.communities.] Therefore, this is a subversive attempt by Gudas to turn the mundanity of zealous modernism-before-modernism designs into something uncanny and possessive. 
 
 The *uncanny* we must understand in the German and Freudian sense, as the *Unheimliche*—the ‘unhomely’—and therefore as something that “isn’t new or strange, but something that was long familiar to the psyche and was estranged from it only through being repressed.”^[Sigmund Freud, *The Uncanny*] The table’s Gothic nature stems from theorist Jack Halberstam’s definition of the Gothic being a “rhetorical style and narrative structure designed to produce fear and desire within the reader [...] emanating from the vertiginous excess of meaning [...] a rhetorical extravagance that produces, quite simply, too much.”^[Halberstam, Judith. *Skin Shows: Gothic Horror and the Technology of Monsters*. Durham, NC: Duke University Press, 2006.] 

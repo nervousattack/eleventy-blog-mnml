@@ -83,6 +83,7 @@ p {
   letter-spacing: 0.4px;
 }
 
+
 .container {
   margin: 60px 35% 60px 20%;
   background: #fcfcff;
@@ -94,6 +95,10 @@ p {
     color: black;
     border-left: 20px solid black;
     font-family: 'Karrik', Helvetica, Arial, sans-serif;
+  }
+  img {
+    width:100%;
+    text-align: center;
   }
 }
 
