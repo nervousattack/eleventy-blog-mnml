@@ -1,5 +1,5 @@
 ---
-date: "2020-08-01"
+date: "2020-07-01"
 year: <em>July</em> 2020
 title: Grindcore Zarathustra
 description: Understanding the auditory impact of the PlayStation boot sequence.

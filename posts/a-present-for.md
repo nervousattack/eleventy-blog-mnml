@@ -1,5 +1,5 @@
 ---
-date: "2017-12-01"
+date: "2017-11-01"
 year: <em>November</em> 2017
 title: A Present For Those Who Are Present
 description: Inital thoughts on abandoning graphic design history.

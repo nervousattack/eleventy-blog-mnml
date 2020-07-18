@@ -1,5 +1,5 @@
 ---
-date: "2020-08-01"
+date: "2020-07-01"
 year: <em>July</em> 2020
 title: enough is enough
 description: Short-circuiting the present through song.

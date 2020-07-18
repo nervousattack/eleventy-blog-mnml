@@ -1,5 +1,5 @@
 ---
-date: "2019-12-01"
+date: "2019-11-01"
 year: <em>April/November</em> 2019 | <a href="https://writing.rorykingetc.com/assets/pdfs/RoryKing_Oozethetics.pdf" target="_blank"><em>Download PDF</em></a>
 title: Oozethetics
 description: Dark entanglements producing disorientation that invigorates solidarity.

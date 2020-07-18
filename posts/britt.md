@@ -1,5 +1,5 @@
 ---
-date: "2019-03-01"
+date: "2019-02-01"
 year: <em>February</em> 2019
 title: Britt Gudas — Shaker Table
 tags: review
