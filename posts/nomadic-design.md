@@ -1,6 +1,6 @@
 ---
 date: "2020-06-01"
-year: <em>July</em> 2020 | <a href="https://writing.rorykingetc.com/assets/pdfs/RoryKing_NomadicDesign.pdf"><em>Download PDF</em></a>
+year: <em>June</em> 2020 | <a href="https://writing.rorykingetc.com/assets/pdfs/RoryKing_NomadicDesign.pdf"><em>Download PDF</em></a>
 title: Contemporary Movement (Nomadic Design)
 description: A proposal for looking to and working with the places ignored by normative visions of progress.
 ---
