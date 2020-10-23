@@ -2,7 +2,7 @@
 date: "2019-11-01"
 year: <em>April/November</em> 2019 | <a href="https://writing.rorykingetc.com/assets/pdfs/RoryKing_Oozethetics.pdf" target="_blank"><em>Download PDF</em></a>
 title: Oozethetics
-description: &#x2606; Dark entanglements producing disorientation that invigorates solidarity. &#x2606;
+description: Dark entanglements producing disorientation that invigorates solidarity.&#x2606;&#x2606;&#x2606;
 ---
 
 > We are difficult. Human beings are difficult. We’re difficult to ourselves, we’re difficult to each other. And we are mysteries to ourselves, we are mysteries to each other. One encounters in any ordinary day far more real difficulty than one confronts in the most “intellectual” piece of work. Why is it believed that poetry, prose, painting, music should be less than we are? Why does music, why does poetry have to address us in simplified terms, when if such simplification were applied to a description of our own inner selves we would find it demeaning? I think art has a right—not an obligation—to be difficult if it wishes. And, since people generally go on from this to talk about elitism versus democracy, I would add that genuinely difficult art is truly democratic. And that tyranny requires simplification. This thought does not originate with me, it’s been far better expressed by others.^[Hill, Geoffrey. “Geoffrey Hill, The Art of Poetry No. 80.” Interview by Carl Phillips. The Paris Review, 2000. https://www.theparisreview.org/interviews/730/geoffrey-hill-the-art-of-poetry-no-80-geoffrey-hill.] \
